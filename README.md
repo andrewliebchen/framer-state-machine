@@ -34,7 +34,8 @@ Read more about the module on [Medium](https://blog.framer.com/react-style-state
 Add the module to your Framer project:
 * Download the project from Github
 * Copy `stateMachine.coffee` into your project's `/modules` directory
-* Import the module into your prototype by adding `{ machine } = require 'stateMachine'` at the top of your `app.coffee`.
+* Import the module into your prototype by adding `{ machine } = require 'stateMachine'` at the top of your `app.coffee`
+* Rename `boilerplate.coffee` to `app.coffee`, copy and overwrite it into your project's root directory (optional)
 
 ## There's more set up to do...
 
